@@ -1,0 +1,3 @@
+Panggil image di Looker IMAGE(CONCAT(“https://drive.google.com/uc?id=",idgambar),Nama)
+idgambar = ambil id dari google drive SUBSTR(Shareloc Foto, 34, 33) 
+33 karakter mulai karakter 34
